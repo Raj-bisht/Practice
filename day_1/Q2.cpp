@@ -1,4 +1,4 @@
-//REMOVE DUPLICATE KEY FROM ARRAY
+
 #include<iostream>
 using namespace std;
 int rmoccur(int arr[],int n,int k)
